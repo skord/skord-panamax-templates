@@ -1,0 +1,11 @@
+---
+name: testtemplate
+description: ''
+keywords: ''
+type: Default
+documentation: ''
+images:
+- name: postgres_latest
+  source: postgres:latest
+  category: DB
+  type: Default
